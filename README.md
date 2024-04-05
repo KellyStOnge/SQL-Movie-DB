@@ -60,7 +60,7 @@ To run the script, open your terminal and execute:
 
 ```bash
 python3 HW5Q.py
-'''
+```
 
 Upon running, the script will prompt you to enter the query you wish to execute. You can choose from the following options:
 
